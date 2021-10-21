@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project(exercise)Rebuild2</string>
+    <string-array name="process">
+        <item>點焊</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="qwer">qwer</string>
+</resources>
